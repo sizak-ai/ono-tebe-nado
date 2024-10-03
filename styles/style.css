@@ -126,7 +126,6 @@ body {
 }
 
 .bet-button {
-  font-family: inherit;
   width: 256px;
   height: 51px;
   float: right;
@@ -189,7 +188,6 @@ body {
   line-height: 120%;
   text-transform: uppercase;
   text-decoration: underline;
-  text-decoration-skip-ink: none;
   color: #fff;
   padding: 54px 40px 0px 40px;
   z-index: 3;
